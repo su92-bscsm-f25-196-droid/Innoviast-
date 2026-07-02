@@ -1,0 +1,6 @@
+{
+  "name": "EduSphere",
+  "description": "A modern, complete Learning Management System (LMS) & Education ERP platform with role-based dashboards, academic planning, analytics, and an educational AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
